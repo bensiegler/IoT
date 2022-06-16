@@ -1,0 +1,3 @@
+//pass in a bunch of timers. Internally they get turned into ChainTimerTemplates and returned
+//then you can call new on chain template and it creates a new event chain. 
+
